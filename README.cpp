@@ -5,6 +5,8 @@ int main (void)
   scanf ("%d", a);
   scanf ("%d", b);
   scanf ("%d", c);
+  if(a>c){
+    printf("%d", c");
   printf ("Hello world");
   return 0;
  }
