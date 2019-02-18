@@ -3,7 +3,7 @@ int main (void)
 {
   int a, b;
   char c;
-  scanf ("%d/n", &a);
+  scanf ("%d/n", &a); sosi hui
   scanf ("%d/n", &b);
   scanf ("%d/n", &c);
   if(a>b){
